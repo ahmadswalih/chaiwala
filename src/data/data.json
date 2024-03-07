@@ -1,0 +1,63 @@
+[{
+    "appeared_at":"09-05-2014",
+    "quote_id":"1",
+    "tags":[
+        "climate"
+    ],
+    "value":"There is no climate change, we changed it",
+    "_embedded":{
+        "source":[
+            {
+                "url":"https://www.youtube.com/watch?v=sGpTkxdJG2E"
+            }
+        ]
+    }
+},
+{
+    "appeared_at":"1-01-2022",
+    "quote_id":"2",
+    "tags":[
+        "ahmadswalih2"
+    ],
+    "value":"There is no climate change we changed it",
+    "_embedded":{
+        "source":[
+            {
+                "url":"https://ahmadswalih.com"
+            }
+        ]
+    }
+},
+{
+    "appeared_at":"1-01-2022",
+    "quote_id":"3",
+    "tags":[
+        "ahmadswalih23"
+    ],
+    "value":"There is no climate change we changed it",
+    "_embedded":{
+        "source":[
+            {
+                "url":"https://ahmadswalih.com"
+            }
+        ]
+    }
+},
+{
+    "appeared_at":"1-01-2022",
+    "quote_id":"4",
+    "tags":[
+        "ahmadswalih24"
+    ],
+    "value":"There is no climate change we changed it",
+    "_embedded":{
+        "source":[
+            {
+                "url":"https://ahmadswalih.com"
+            }
+        ]
+    }
+}
+
+
+]
