@@ -193,7 +193,7 @@ const App = () => {
         </a>
         <a
           target="_blank"
-          href="https://us.umami.is/share/DTJgMGKtPwcQcCiG/trumplaughs.ahmadswalih.com"
+          href="https://us.umami.is/share/koQqwa0aKCrAt530/chaiwala.ahmadswalih.com"
         >
           <p className="mt-4 text-gray-600 ">Analytics ➚</p>
         </a>
