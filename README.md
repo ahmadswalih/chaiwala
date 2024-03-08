@@ -71,10 +71,14 @@ Contributions are always welcome!
 
 while giving a new data , there must be a source url and appeared date and these must be accurate.
 
+For just submitting the data , you can use this google form :[https://forms.gle/wPFDG26Xc4EQeuvU7](https://forms.gle/wPFDG26Xc4EQeuvU7)
+
 Please adhere to this project's `terms-and-conditions`.
 
 
 ## Support
 
 For support, email ahmadswalih777@gmail.com or just ping me on Linkedin ( id: ahmad swalih).
+
+
 
