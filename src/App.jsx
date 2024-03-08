@@ -73,7 +73,7 @@ const App = () => {
             }}
             required
             value={tag}
-            placeholder="eg: Climate,Religion , etc..."
+            placeholder="eg: Climate,Sarcasm , etc..."
             type="text"
             className="rounded-md border border-gray-400 focus:outline-none p-4 shadow-md text-xl w-[24rem]  md:w-[28rem] h-12 "
           />
@@ -145,7 +145,13 @@ const App = () => {
         ) : (
           ""
         )}
-        {error ? <p>There is no Quote available for this tag</p> : ""}
+        {error ? (
+          <p className="text-red-600">
+            There is no Quote available for this tag
+          </p>
+        ) : (
+          ""
+        )}
 
         {randomQuotes ? (
           <>
