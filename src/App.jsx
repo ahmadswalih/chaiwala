@@ -101,7 +101,7 @@ const App = () => {
             ""
           )}
         </div>
-        <p className="mt-4 text-gray-600 text-lg">
+        <p className="mt-4 text-center  text-gray-600 text-sm  md:text-lg">
           By using this website , You are accepting our{" "}
           <a href="#terms-and-conditions">
             {" "}
@@ -173,16 +173,22 @@ const App = () => {
               </div>
             ))}
         <Tags />
-        <a target="_blank" href="">
+        <a target="_blank" href="https://github.com/ahmadswalih/chaiwala">
           {" "}
           <p className="bg-red-500 mt-3 text-white rounded-md p-2 text-xl mb-4">
             GITHUB ➚{" "}
           </p>
         </a>
-        <a target="_blank" href="">
+        <a target="_blank" href="https://forms.gle/wPFDG26Xc4EQeuvU7">
           {" "}
           <p className="bg-green-500 text-white rounded-md p-2 text-xl mb-4">
-            Contribute a Quote ➚{" "}
+            Contribute a Great Thing ➚{" "}
+          </p>
+        </a>
+        <a target="_blank" href="https://trumplaughs.ahmadswalih.com">
+          {" "}
+          <p className="bg-green-500 mt-3 text-white rounded-md p-2 text-xl mb-4">
+            TrumpLaughs ➚{" "}
           </p>
         </a>
         <a
@@ -203,7 +209,7 @@ const App = () => {
 
         <div
           id="terms-and-conditions"
-          className="flex items-center flex-col w-[44rem] p-3 rounded-md mb-10 shadow-md bg-gray-100 border border-gray-200"
+          className="flex items-center flex-col md:w-[44rem] p-3 rounded-md mb-10 shadow-md bg-gray-100 border border-gray-200"
         >
           <p className="text-red-600 text-xl mb-2 text-center font-bold">
             Terms and conditions
