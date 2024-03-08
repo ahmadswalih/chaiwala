@@ -1,10 +1,14 @@
-[{
+
+[
+    
+{
+    
     "appeared_at":"09-05-2014",
     "quote_id":"1",
     "tags":[
         "climate"
     ],
-    "value":"There is no climate change, we changed it",
+    "value":"There is no climate change, we have changed.",
     "_embedded":{
         "source":[
             {
@@ -14,50 +18,204 @@
     }
 },
 {
-    "appeared_at":"1-01-2022",
+    "appeared_at":"04-16-2015",
     "quote_id":"2",
     "tags":[
-        "ahmadswalih2"
+        "mathematics"
     ],
-    "value":"There is no climate change we changed it",
+    "value":"(a+b^2)^2 = a^2+2ab+b^2 ,so you see extra 2ab? so from where the extra 2ab came from ?? When India and Canada meet an extra 2ab comes out.",
     "_embedded":{
         "source":[
             {
-                "url":"https://ahmadswalih.com"
+                "url":"https://www.indiatoday.in/india/video/pm-narendra-modi-india-canada-mathematical-analogy-a-plus-b-429355-2015-04-16"
             }
         ]
     }
 },
 {
-    "appeared_at":"1-01-2022",
+    "appeared_at":"05-12-2019",
     "quote_id":"3",
     "tags":[
-        "ahmadswalih23"
+        "internationalrelations."
     ],
-    "value":"There is no climate change we changed it",
+    "value":"There are clouds, its is raining, our fighter planes can escape being detected by Radar",
     "_embedded":{
         "source":[
             {
-                "url":"https://ahmadswalih.com"
+                "url":"https://www.ndtv.com/india-news/controversy-over-pm-narendra-modis-cloud-can-help-us-escape-radar-comment-on-balakot-air-strikes-2036402"
             }
         ]
     }
 },
 {
-    "appeared_at":"1-01-2022",
+    "appeared_at":"05-14-2014",
     "quote_id":"4",
     "tags":[
-        "ahmadswalih24"
+        "politics"
     ],
-    "value":"There is no climate change we changed it",
+    "value":"I believe government has no business to do business. Minimum government, maximum governance.",
     "_embedded":{
         "source":[
             {
-                "url":"https://ahmadswalih.com"
+                "url":"https://www.narendramodi.in/minimum-government-maximum-governance-3162"
+            }
+        ]
+    }
+},
+{
+    "appeared_at":"01-24-2013",
+    "quote_id":"5",
+    "tags":[
+        "technology"
+    ],
+    "value":"From snake-charmers, we are now a nation of mouse-charmers. Our youngsters are shaping the world with the click of a mouse with their feats in the IT sector,",
+    "_embedded":{
+        "source":[
+            {
+                "url":"https://www.youtube.com/watch?v=XX3iyFbVLhE"
+            }
+        ]
+    }
+},
+{
+    "appeared_at":"02-07-2013",
+    "quote_id":"6",
+    "tags":[
+        "politics"
+    ],
+    "value":"The solution to all problems is development. The whole nation has been destroyed by vote bank politics, what it needs is development. If there is developement there is much scope for a lot of improvement in the nation",
+    "_embedded":{
+        "source":[
+            {
+                "url":"https://zeenews.india.com/news/nation/vote-bank-politics-has-ruined-india-it-now-needs-development-narendra-modi_827292.html"
+            }
+        ]
+    }
+},
+{
+    "appeared_at":"09-07-2011",
+    "quote_id":"7",
+    "tags":[
+        "politics"
+    ],
+    "value":"Secularism is a term interpreted in many different ways by different people. For me, it has always been something very simple - putting India First ",
+    "_embedded":{
+        "source":[
+            {
+                "url":"https://www.narendramodi.in/india-first-3040"
+            }
+        ]
+    }
+},
+{
+    "appeared_at":"09-07-2011",
+    "quote_id":"8",
+    "tags":[
+        "sarcasm"
+    ],
+    "value":"Bring back BJP for development",
+    "_embedded":{
+        "source":[
+            {
+                "url":"https://www.thehindu.com/elections/himachal-pradesh-assembly/prime-minister-narendra-modi-addresses-a-rally-in-mandi-himachal-pradesh/article66099555.ece"
+            }
+        ]
+    }
+},
+{
+    "appeared_at":"10-01-2012",
+    "quote_id":"9",
+    "tags":[
+        "trip"
+    ],
+    "value":"To those Congress friends, who are accusing our government of uncontrolled expenditure, I want to ask: is it not true that on the foreign travels of the president of the Congress party, Sonia Gandhi, in the past three years, 1,880 crore (18.8 billion) rupees has been spent from the public exchequer … This clearly means that more than the total yearly budget of Bhavnagar, Jamnagar, Junagadh and Rajkot Municipal Corporation combined has been spent only on the foreign trips of Sonia Gandhi and on her luxury hotel stays",
+    "_embedded":{
+        "source":[
+            {
+                "url":"https://economictimes.indiatimes.com/news/politics-and-nation/narendra-modi-alleges-centre-spent-rs-1880-crore-on-sonia-gandhis-foreign-trips/articleshow/16628826.cms?from=mdr"
+            }
+        ]
+    }
+},
+{
+    "appeared_at":"11-08-2020",
+    "quote_id":"10",
+    "tags":[
+        "economy"
+    ],
+    "value":"Demonetisation helped curb black money",
+    "_embedded":{
+        "source":[
+            {
+                "url":"https://economictimes.indiatimes.com/news/politics-and-nation/narendra-modi-alleges-centre-spent-rs-1880-crore-on-sonia-gandhis-foreign-trips/articleshow/16628826.cms?from=mdr"
+            }
+        ]
+    }
+},
+{
+    "appeared_at":"09-23-2019",
+    "quote_id":"11",
+    "tags":[
+        "controversial"
+    ],
+    "value":"All those who oppose taking down of article 370 are supporters of terrorism!",
+    "_embedded":{
+        "source":[
+            {
+                "url":"https://www.thehindu.com/news/national/modi-trump-set-new-course-on-terrorism-border-security/article61982566.ece"
+            }
+        ]
+    }
+},
+
+
+
+{
+    "appeared_at":"10-10-2020",
+    "quote_id":"12",
+    "tags":[
+        "innovation"
+    ],
+    "value":"A Spinning turbine could go on to “separate” oxygen from the air, and thereby could produce oxygen, power and clean water.",
+    "_embedded":{
+        "source":[
+            {
+                "url":"https://www.facebook.com/watch/?v=281218236652593"
+            }
+        ]
+    }
+},
+
+{
+    "appeared_at":"10-29-2012",
+    "quote_id":"13",
+    "tags":[
+        "allegation"
+    ],
+    "value":"Wah kya girlfriend hai. Apne kabhi dekha hai 50 crore ka girlfriend? (What a girlfriend. Have you ever seen a 50-crore-girl friend)",
+    "_embedded":{
+        "source":[
+            {
+                "url":"https://timesofindia.indiatimes.com/india/narendra-modi-calls-shashi-tharoors-wife-50-crore-rupee-girlfriend/articleshow/17008278.cms"
+            }
+        ]
+    }
+},
+
+{
+    "appeared_at":"05-23-2012",
+    "quote_id":"14",
+    "tags":[
+        "petrol"
+    ],
+    "value":"Massive Hike in Petrol prices is a prime example of the falure of Congress-led UPA,This will put a burden of hundreds of crores on Guj ",
+    "_embedded":{
+        "source":[
+            {
+                "url":"https://twitter.com/narendramodi/status/205310790440460288?lang=en"
             }
         ]
     }
 }
-
 
 ]

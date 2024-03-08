@@ -9,6 +9,7 @@ const App = () => {
   const [tag, SetTag] = useState("");
   const [loading, setLoading] = useState(false);
   const [randomQuotes, SetRandomQuotes] = useState();
+  const [error, setError] = useState(false);
   const GenerateRandom = async () => {
     try {
       setLoading(true);
@@ -29,19 +30,15 @@ const App = () => {
       try {
         setLoading(true);
         const filteredQuotes = jsonData.filter((quote) =>
-          quote.tags.includes(tag)
+          quote.tags.map((tag) => tag.toLowerCase()).includes(tag.toLowerCase())
         );
-
         if (filteredQuotes.length > 0) {
-          let trimmedResult;
-          if (filteredQuotes.length > 2) {
-            trimmedResult = filteredQuotes.slice(0, 2);
-          } else {
-            trimmedResult = filteredQuotes;
-          }
-          SetResult(trimmedResult);
+          SetResult(filteredQuotes);
+          setError(false);
+          SetRandomQuotes();
           console.log(result);
         } else {
+          setError(true);
           console.log("No quotes found for the provided tag.");
         }
 
@@ -140,6 +137,7 @@ const App = () => {
         ) : (
           ""
         )}
+        {error ? <p>There is no Quote available for this tag</p> : ""}
 
         {randomQuotes ? (
           <>
