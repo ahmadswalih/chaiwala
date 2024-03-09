@@ -30,8 +30,11 @@ const App = () => {
       try {
         setLoading(true);
         const filteredQuotes = jsonData.filter((quote) =>
-          quote.tags.map((tag) => tag.toLowerCase()).includes(tag.toLowerCase())
+          quote.tags
+            .map((tag) => tag.toLowerCase().trim())
+            .includes(tag.toLowerCase().trim())
         );
+
         if (filteredQuotes.length > 0) {
           SetResult(filteredQuotes);
           setError(false);
