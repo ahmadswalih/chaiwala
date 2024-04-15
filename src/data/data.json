@@ -246,6 +246,66 @@
             }
         ]
     }
+},
+{
+    "appeared_at":"10-28-2014",
+    "quote_id":"17",
+    "tags":[
+        "sarcasm"
+    ],
+    "value":"We worship Lord Ganesha, there must have been some plastic surgeon at that time who got an elephant's head on the body of a human being and began the practice of plastic surgery.",
+    "_embedded":{
+        "source":[
+            {
+                "url":"https://www.youtube.com/watch?v=7gRVqWVMo3c"
+            }
+        ]
+    }
+},
+{
+    "appeared_at":"10-08-2017",
+    "quote_id":"18",
+    "tags":[
+        "sarcasm"
+    ],
+    "value":"You are IITians, I am 'tea-ian' (tea-seller)",
+    "_embedded":{
+        "source":[
+            {
+                "url":"https://timesofindia.indiatimes.com/city/ahmedabad/you-are-iitians-i-am-tea-ian-tea-seller-pm-modi/articleshow/60989980.cms"
+            }
+        ]
+    }
+},
+{
+    "appeared_at":"09-22-2017",
+    "quote_id":"19",
+    "tags":[
+        "sarcasm"
+    ],
+    "value":"Solution to all problems lies in development",
+    "_embedded":{
+        "source":[
+            {
+                "url":"https://timesofindia.indiatimes.com/india/pm-modi-in-varanasi-solution-to-all-problems-is-development/articleshow/60795927.cms"
+            }
+        ]
+    }
+},
+{
+    "appeared_at":"02-05-2024",
+    "quote_id":"20",
+    "tags":[
+        "controversial"
+    ],
+    "value":"Nehru thought Indians are lazy, Indira Gandhi didn't think any differently",
+    "_embedded":{
+        "source":[
+            {
+                "url":"https://www.indiatoday.in/india/story/pm-modi-parliament-jawaharlal-nehru-thought-indians-to-be-lazy-attacks-indira-gandhi-2497928-2024-02-05"
+            }
+        ]
+    }
 }
 
 
