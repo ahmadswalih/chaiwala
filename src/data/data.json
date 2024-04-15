@@ -218,6 +218,21 @@
     }
 },
 {
+    "appeared_at":"04-09-2024",
+    "quote_id":"16",
+    "tags":[
+        "controversial"
+    ],
+    "value":"Timely intervention by govt improved Manipur's situation",
+    "_embedded":{
+        "source":[
+            {
+                "url":"https://economictimes.indiatimes.com/news/elections/lok-sabha/india/timely-intervention-by-govt-improved-manipurs-situation-says-pm-modi/articleshow/109143296.cms?from=mdr"
+            }
+        ]
+    }
+},
+{
     "appeared_at":"12-03-2016",
     "quote_id":"15",
     "tags":[
@@ -232,5 +247,6 @@
         ]
     }
 }
+
 
 ]
