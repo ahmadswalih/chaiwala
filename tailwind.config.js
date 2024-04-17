@@ -4,7 +4,8 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        sans: ["Madimi One", "sans-serif"],
+        madimi: ["Madimi One", "sans-serif"],
+        handwritten: ["Reenie Beanie", "sans-serif"],
       },
     },
   },
