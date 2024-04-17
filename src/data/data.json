@@ -306,6 +306,21 @@
             }
         ]
     }
+},
+{
+    "appeared_at":"04-15-2024",
+    "quote_id":"21",
+    "tags":[
+        "controversial"
+    ],
+    "value":"Electoral Bonds increased transparency",
+    "_embedded":{
+        "source":[
+            {
+                "url":"https://www.instagram.com/p/C5yMDGHp8HA/?igsh=MTF5d2J5bDJscjBtZQ=="
+            }
+        ]
+    }
 }
 
 
