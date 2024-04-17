@@ -4,8 +4,6 @@ import Tags from "../components/Tags";
 import logo from "../assets/logo.png";
 import jsonData from "../data/data.json";
 import { Link } from "react-router-dom";
-import DailyCard from "../components/DailyCard";
-import arrowPng from "../assets/arrow.png";
 const App = () => {
   const [result, SetResult] = useState([]);
   const [tag, SetTag] = useState("");

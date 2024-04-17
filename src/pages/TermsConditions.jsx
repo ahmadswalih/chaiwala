@@ -6,7 +6,7 @@ const TermsConditions = () => {
       <div className="flex flex-col justify-center items-center font-sans ">
         <div className="text-center mt-10 h-full w-[54rem]  flex flex-col items-center justify-center">
           <p className="text-3xl  font-bold mb-4"> Terms and Conditions </p>
-          <p className=" text-center">
+          <p className=" md:w-fit w-[50%] text-center">
             These Terms and Conditions govern your use of the website
             https://chaiwala.ahmadswalih.com, an open-source project dedicated
             to compiling and displaying statements made by Prime Minister
