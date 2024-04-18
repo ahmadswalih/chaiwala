@@ -114,10 +114,10 @@ const App = () => {
         </div>
         <p className="mt-4 text-center  text-gray-600 text-sm  md:text-lg">
           By using this website , You are accepting our{" "}
-          <a href="#terms-and-conditions">
+          <Link to="/terms-conditions">
             {" "}
             <span className="text-blue-500 underline">Terms & Conditions </span>
-          </a>
+          </Link>
         </p>
 
         {loading ? (
